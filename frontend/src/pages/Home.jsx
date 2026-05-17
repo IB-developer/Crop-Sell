@@ -41,7 +41,7 @@ const CONTENT = {
     finalDesc: "Hundreds of farmers in Uttarakhand are already using AgroAI. Join them today — it's free.",
     finalCta: "Start for Free",
     footer: "© 2025 AgroAI · Made for farmers of Uttarakhand 🌾",
-    madeFor: "Made for farmers of Haldwani · Kathgodam · Tikonia · Rudrapur",
+    madeFor: "Made for farmers of Haldwani · Kathgodam · Tikonia",
     liveBadge: "Live for Haldwani farmers",
   },
   hi: {
@@ -80,7 +80,7 @@ const CONTENT = {
     finalDesc: "उत्तराखंड के सैकड़ों किसान पहले से AgroAI इस्तेमाल कर रहे हैं। आज ही जुड़ें — बिल्कुल मुफ़्त।",
     finalCta: "मुफ़्त शुरू करें",
     footer: "© 2025 AgroAI · उत्तराखंड के किसानों के लिए बना 🌾",
-    madeFor: "हल्द्वानी · काठगोदाम · टिकोनिया · रुद्रपुर के किसानों के लिए",
+    madeFor: "हल्द्वानी · काठगोदाम · टिकोनिया के किसानों के लिए",
     liveBadge: "हल्द्वानी किसानों के लिए लाइव",
   },
 };
