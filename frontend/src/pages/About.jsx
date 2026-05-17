@@ -14,8 +14,8 @@ function About() {
     >
 
       {/* GLOW BACKGROUND */}
-      <div className="absolute w-[600px] h-[600px] bg-green-500 opacity-10 blur-3xl rounded-full top-[-200px] left-[-200px]" />
-      <div className="absolute w-[400px] h-[400px] bg-lime-400 opacity-10 blur-3xl rounded-full bottom-[-100px] right-[-100px]" />
+      <div className="absolute w-150 h-150 bg-green-500 opacity-10 blur-3xl rounded-full -top-50 -left-50" />
+      <div className="absolute w-100 h-100 bg-lime-400 opacity-10 blur-3xl rounded-full -bottom-25 -right-25" />
 
       {/* HERO */}
       <div className="max-w-6xl mx-auto text-center px-6 py-24 relative z-10">
